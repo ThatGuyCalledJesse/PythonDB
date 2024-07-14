@@ -1,4 +1,4 @@
-class DB:
+class database:
     def __init__(self):
         self.database = {}
 
